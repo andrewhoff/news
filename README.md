@@ -6,3 +6,4 @@
 
 ### To Run
 - `go get github.com/andrewhoff/news`
+- `news`
