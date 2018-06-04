@@ -11,6 +11,7 @@ var newsSources = []string{
 	"https://techcrunch.com",
 	"https://wired.com",
 	"https://arstechnica.com",
+	"https://www.theverge.com",
 }
 
 func main() {
